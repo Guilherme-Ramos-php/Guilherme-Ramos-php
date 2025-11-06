@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Guilherme-Ramos-php.png" alt="Guilherme Ramos" width="200px" style="border-radius: 50%; border: 5px solid #58A6FF; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3); margin-bottom: 20px;">
+<img src="https://github.com/Guilherme-Ramos-php.png" alt="Guilherme Ramos" width="200">
 
 ### 🚀 Desenvolvedor Full Stack
 
