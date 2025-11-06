@@ -8,7 +8,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramosguilherme1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oguilherme_ramos)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Ramos-php)
+<a href="https://github.com/Guilherme-Ramos-php" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 <!-- [![Portfólio](https://img.shields.io/badge/Portfólio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seu-portfolio.com) -->
 
 
@@ -90,8 +92,8 @@ Olá! Sou um desenvolvedor Full Stack brasileiro e sou um grande apaixonado por 
 
 Estou sempre aberto a novas oportunidades e projetos interessantes. Sinta-se à vontade para entrar em contato!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramosguilherme1/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oguilherme_ramos)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.arsilva1@gmail.com)
 <!-- [![Portfólio](https://img.shields.io/badge/Portfólio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seu-portfolio.com) -->
 ---
