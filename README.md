@@ -1,16 +1,7 @@
 # 👨‍💻 Guilherme Ramos
 
 <div align="center">
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="circle">
-      <circle cx="100" cy="100" r="95"/>
-    </clipPath>
-  </defs>
-  <circle cx="100" cy="100" r="100" fill="#58A6FF"/>
-  <circle cx="100" cy="100" r="95" fill="#58A6FF"/>
-  <image href="https://github.com/Guilherme-Ramos-php.png" x="5" y="5" width="190" height="190" clip-path="url(#circle)"/>
-</svg>
+<img src="assets/foto-perfil.png" alt="Guilherme Ramos" width="200">
 
 
 ### 🚀 Desenvolvedor Full Stack
