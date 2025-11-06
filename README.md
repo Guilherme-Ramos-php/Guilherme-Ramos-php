@@ -77,8 +77,6 @@ Olá! Sou um desenvolvedor Full Stack brasileiro e sou um grande apaixonado por 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Ramos-php&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ramos-php&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 </div>
